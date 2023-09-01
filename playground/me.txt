@@ -1,0 +1,5 @@
+{{#user}}
+Name: ARIGELA SATHEESH KUMAR
+Skills: Python,Java,HTML,CSS,Machine Learning,DBMS,MySQL.
+Email: satheeshkumar21at5a@gmail.com
+{{/user}}
